@@ -1,1 +1,1 @@
-users home directory
+display current directory
