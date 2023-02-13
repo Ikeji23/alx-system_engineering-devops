@@ -1,1 +1,1 @@
-letter only
+replace all characters
