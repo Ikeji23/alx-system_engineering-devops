@@ -1,1 +1,1 @@
-finds all empty files
+extention in current directory
