@@ -1,1 +1,1 @@
-Working directory
+deletes all the regular files
