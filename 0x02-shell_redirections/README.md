@@ -1,1 +1,1 @@
-contains pattern
+3 lines after
