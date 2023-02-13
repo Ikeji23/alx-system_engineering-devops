@@ -1,1 +1,1 @@
-extention in current directory
+decodes acrostic
