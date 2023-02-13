@@ -1,1 +1,1 @@
-result of the command
+Working directory
