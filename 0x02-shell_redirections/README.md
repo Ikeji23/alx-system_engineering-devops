@@ -1,1 +1,1 @@
-Dispay a file
+contents of a file
