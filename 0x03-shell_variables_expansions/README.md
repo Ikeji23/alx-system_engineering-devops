@@ -1,1 +1,1 @@
-two letters
+decimal places
