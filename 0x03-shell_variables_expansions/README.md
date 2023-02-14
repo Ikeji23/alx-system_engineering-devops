@@ -1,1 +1,1 @@
-binary
+two letters
